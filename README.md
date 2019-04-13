@@ -4,7 +4,7 @@
 Feedback-Analyzer is A Graphical User Interface with User Friendly Design.
 It Uses RNN Model to Predict if Feedback is Positive or Negative.
 
-To Install Packages: pip install -r Requirements.txt
+#### To Install Packages: pip install -r Requirements.txt
 
 
 ![alt text](https://github.com/ShinobiKSAMA/Feedback-Analyzer/blob/master/Homepage.PNG)
@@ -29,5 +29,5 @@ The Feedbacks are Grouped By Faculties.
 
 
 
-If You Are Using this Project, Give Credits to:
+### If You Are Using this Project, Give Credits to:
 https://github.com/ShinobiKSAMA
