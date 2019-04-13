@@ -1,8 +1,7 @@
 # Feedback-Analyzer
 
 
-Feedback-Analyzer is A Graphical User Interface with User Friendly Design.
-It Uses RNN Model to Predict if Feedback is Positive or Negative.
+### Feedback-Analyzer is A Graphical User Interface with User Friendly Design. It Uses RNN Model to Predict if Feedback is Positive or Negative.
 
 #### To Install Packages: pip install -r Requirements.txt
 
