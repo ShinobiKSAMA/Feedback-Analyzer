@@ -14,11 +14,13 @@ To Install: pip install -r Requirements.txt
 The Feedback-Analyzer's Feedback Page Have Username Field, List of Faculties and Feedback Block.
 When A User Submits Feedback It Will Show Status As Feedback is Submitted.
 If The User Have Already Given Feedback to Particular Faculty, Application Will Not Accept New Feed =back Untill Prvious Feedback is Deleted.
+
 ![alt text](https://github.com/ShinobiKSAMA/Feedback-Analyzer/blob/master/Feedback.PNG)
 
 The Feedback-Analyzer's Table Page Shows The Stored Feedbacks and Have Option To Delete Particular Feedback.
 It Scrolls Through Feedbacks by Next and Prev Buttons.
 The Feedbacks are Grouped By Faculties.
+
 ![alt text](https://github.com/ShinobiKSAMA/Feedback-Analyzer/blob/master/FeedDB.PNG)
 
 If You Are Using this Project, Give Credits to:
