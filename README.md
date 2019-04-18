@@ -28,6 +28,6 @@ The Feedbacks are Grouped By Faculties.
 
 
 
-### If You Are Using this Project, Give Credits to:
-https://github.com/ShinobiKSAMA
-https://github.com/Preetam-B-A
+### If You Are Using this Project, Give Credits to Aditya Mhatre and Preetam B. A. :
+#### Aditya Mhatre: https://github.com/ShinobiKSAMA
+#### Preetam B. A.: https://github.com/Preetam-B-A
